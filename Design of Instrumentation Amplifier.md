@@ -29,8 +29,12 @@ performance.
                                                          
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
+![WhatsApp Image 2025-11-27 at 17 32 03_f81bfa10](https://github.com/user-attachments/assets/9e93638d-54fd-4fcf-88ed-2223af16a70a)
+
 
 ## MODEL GRAPH:
+
+![WhatsApp Image 2025-11-27 at 17 32 28_ed4dd713](https://github.com/user-attachments/assets/6d7dceb1-df03-45b3-b08d-a2ea2ed14b66)
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -47,10 +51,15 @@ input value of V1 and V2.
 waveforms are plotted in a graph sheet.
 
 ## TABULATION:
+![WhatsApp Image 2025-11-27 at 17 32 59_73d5cd69](https://github.com/user-attachments/assets/31bb785b-5445-4dbe-a38f-a7c3786842ab)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-27 at 17 33 33_9d498045](https://github.com/user-attachments/assets/babc0c9d-b4ef-44fa-ab78-0f045811588f)
+
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 17 34 39_a5c49717](https://github.com/user-attachments/assets/b92f27e6-e427-406c-8949-57730225e253)
+
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
